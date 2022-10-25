@@ -1,0 +1,38 @@
+[
+  {
+    "id": "01",
+    "name": "Browser",
+    "img": "https://i.ibb.co/JxgQd0z/Untitled-1.png",
+    "description": "The web is a vast and powerful tool. Over the course of a few decades, the internet has changed the way we work, the way we play and the way we interact with one another."
+  },
+  {
+    "id": "02",
+    "name": "Programming Language",
+    "img": "https://i.ibb.co/6X14xgf/1-HLGt-Y6-O2v-UHq-Iy-Eb-Wdm-Bg-A.png",
+    "description": "10 Best Programming Languages to Learn"
+  },
+  {
+    "id": "03",
+    "name": "Frameworks",
+    "img": "https://i.ibb.co/pW3bBKz/k-BHBw-Bv-Exc-Pnosii.png",
+    "description": "In computer systems, a framework is often a layered structure indicating what kind of programs can or should be built and how they would interrelate."
+  },
+  {
+    "id": "04",
+    "name": "Web Server",
+    "img": "https://i.ibb.co/93MdrfZ/cdn-vs-web-server.png",
+    "description": "A web server is software and hardware that uses HTTP (Hypertext Transfer Protocol) and other protocols to respond to client requests made over the World Wide Web"
+  },
+  {
+    "id": "05",
+    "name": "Database",
+    "img": "https://i.ibb.co/Mp20cDr/vertical-scaling.png",
+    "description": "A database is an organized collection of structured information, or data, typically stored electronically in a computer system."
+  },
+  {
+    "id": "06",
+    "name": "Protocols",
+    "img": "https://i.ibb.co/kmhssVL/Understanding-Networking-Protocols-300x186.png",
+    "description": "A protocol is a set of rules and guidelines for communicating data. Rules are defined for each step and process during communication between two or more computers"
+  }
+]

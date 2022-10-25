@@ -1,0 +1,33 @@
+[
+  {
+    "_id": "01",
+    "description": "A web browser is a software application for retrieving, presenting and traversing information resources on the World Wide Web. It further provides for the capture or input of information which may be returned to the presenting system, then stored or processed as necessary. The method of accessing a particular page or content is achieved by entering its address, known as a Uniform Resource Identifier or URI. This may be a web page, image, video, or other piece of content.  Hyperlinks present in resources enable users easily to navigate their browsers to related resources. A web browser can also be defined as an application software or program designed to enable users to access, retrieve and view documents and other resources on the Internet.",
+    "img": ""
+  },
+  {
+    "_id": "02",
+    "description": "Once upon a time, the world of computer programming was a mysterious and exclusive place. Only a select handful of people were considered computer programmers with cutting-edge coding skills. Today, many IT jobs require a solid grasp of the top programming languages, and yes, we mean more than one. If your plans to advance your career or change careers completely requires you to master a programming language, you might wonder which one to learn. After all, it will take time and money to learn the language, so you want to make the right choice. When making your decision, you should bear several considerations in mind, like the difficulty level you’re willing to tackle, the programming language knowledge you already possess that meshes with your existing coding skills, or your reasons for learning a top programming language.",
+    "img": ""
+  },
+  {
+    "_id": "03",
+    "description": "In general, a framework is a real or conceptual structure intended to serve as a support or guide for the building of something that expands the structure into something useful.In computer systems, a framework is often a layered structure indicating what kind of programs can or should be built and how they would interrelate. Some computer system frameworks also include actual programs, specify programming interfaces, or offer programming tools for using the frameworks. A framework may be for a set of functions within a system and how they interrelate; the layers of an operating system; the layers of an application subsystem; how communication should be standardized at some level of a network; and so forth. A framework is generally more comprehensive than a protocol and more prescriptive than a structure",
+    "img": ""
+  },
+  {
+    "_id": "04",
+    "description": "A web server is a computer that runs websites. It's a computer program that distributes web pages as they are requisitioned. The basic objective of the web server is to store, process and deliver web pages to the users. This intercommunication is done using Hypertext Transfer Protocol (HTTP). These web pages are mostly static content that includes HTML documents, images, style sheets, test etc. Apart from HTTP, a web server also supports SMTP (Simple Mail transfer Protocol) and FTP (File Transfer Protocol) protocol for emailing and for file transfer and storage.",
+    "img": ""
+  },
+  {
+    "_id": "05",
+    "description": "A database is an organized collection of structured information, or data, typically stored electronically in a computer system. A database is usually controlled by a database management system (DBMS). Together, the data and the DBMS, along with the applications that are associated with them, are referred to as a database system, often shortened to just database. Data within the most common types of databases in operation today is typically modeled in rows and columns in a series of tables to make processing and data querying efficient. The data can then be easily accessed, managed, modified, updated, controlled, and organized. Most databases use structured query language (SQL) for writing and querying data.",
+
+    "img": ""
+  },
+  {
+    "_id": "06",
+    "description": "In networking, a protocol is a set of rules for formatting and processing data. Network protocols are like a common language for computers. The computers within a network may use vastly different software and hardware; however, the use of protocols enables them to communicate with each other regardless.Standardized protocols are like a common language that computers can use, similar to how two people from different parts of the world may not understand each other's native languages, but they can communicate using a shared third language. If one computer uses the Internet Protocol (IP) and a second computer does as well, they will be able to communicate — just as the United Nations relies on its 6 official languages to communicate amongst representatives from all over the globe. But if one computer uses IP and the other does not know this protocol, they will be unable to communicate.  On the Internet, there are different protocols for different types of processes. Protocols are often discussed in terms of which OSI model layer they belong to",
+    "img": ""
+  }
+]
